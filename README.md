@@ -1,5 +1,5 @@
 
-### 🎃 They there, present Vatsal here. 
+### 🎃 Hey there, present Vatsal here. 
 
 I did this challenge as a part of my application for Machine Learning Operations (MLOps) Co-op where I am current doing my co-op at Retail Business Services (a company of Ahold Delhaize USA). 
 This README explains what I had to do for the challenge, and acutally, what I did for the challenge is inside 'docs/' folder. 
